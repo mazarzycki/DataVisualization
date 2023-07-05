@@ -20,7 +20,7 @@ The Data Visualization Dashboard is a web application built with Python and Flas
 ## Getting Started
 
 1. Clone the repository:
-git clone https://github.com/your-username/data-visualization-dashboard.git
+git clone git clone https://github.com/mazarzycki/DataVisualizationDashboard.git
 
 2. Install the required dependencies:
 pip install -r requirements.txt
