@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Visualization Dashboard - Visualizations</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <h1>Data Visualizations</h1>
+    <img src="{{ url_for('static', filename='chart.png') }}" alt="Visualization">
+    <form action="/" method="GET">
+        <input type="submit" value="Choose Another Data Set">
+    </form>
+</body>
+</html>
